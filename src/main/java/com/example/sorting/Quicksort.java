@@ -7,7 +7,7 @@ public class Quicksort  {
 
 	public void sort(int[] values) {
 		// Check for empty or null array
-		if (values ==null || values.length==0){
+		if (values == null || values.length == 0){
 			return;
 		}
 
